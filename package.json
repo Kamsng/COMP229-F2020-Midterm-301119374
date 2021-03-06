@@ -5,6 +5,10 @@
   "scripts": {
     "start": "node ./server.js"
   },
+  "engines": {
+    "node": "^12.00.0",
+    "npm": "^6.0.0"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
     "bootstrap": "^4.5.2",
@@ -22,5 +26,13 @@
   "main": "server.js",
   "devDependencies": {},
   "author": "karamvir singh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamsng/comp229-mid_term.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kamsng/comp229-mid_term/issues"
+  },
+  "homepage": "https://github.com/Kamsng/comp229-mid_term#readme"
 }
